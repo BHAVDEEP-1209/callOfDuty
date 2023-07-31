@@ -1,0 +1,28 @@
+.footer{
+    width: 40%;
+    height: max-content;
+
+    .footerContent{
+        color: whitesmoke;
+        font-family: 'Saira Condensed', sans-serif;
+        font-size: 20px;
+    }
+
+    .headerContent{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 30px;
+        margin-bottom: 20px;
+
+        .img2{
+            width: 25%;
+            height: 15%;
+        }
+
+        .img1{
+            width: 10%;
+            height: 8%;
+        }
+    }
+}
